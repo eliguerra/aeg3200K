@@ -1,4 +1,4 @@
 aeg3200K
 ========
 
-New repository.
+New repository for learning Git and Github.
